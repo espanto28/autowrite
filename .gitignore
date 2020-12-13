@@ -131,3 +131,6 @@ dmypy.json
 
 # Article folders
 articles/
+
+#Tensorflow checkpoints
+training_checkpoints/
